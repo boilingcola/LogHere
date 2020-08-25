@@ -1,0 +1,3 @@
+include ':EzLog'
+include ':app'
+rootProject.name = "LogHere"
